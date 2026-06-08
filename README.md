@@ -6,7 +6,7 @@ Este repositório contém uma ferramenta automatizada em Python desenvolvida par
 
 Para uma análise detalhada da governança do projeto, matriz de riscos linguísticos e justificativas de arquitetura, acesse o documento oficial do projeto:
 
-* [Documentação Executiva do Case — Google Docs](INSIRA_O_LINK_DO_SEU_GOOGLE_DOCS_AQUI)
+* [Documentação Executiva do Case — Google Docs](**https://docs.google.com/document/d/1z1J2jwPOSI_OIxhX2u40frQb-pEm0cfwHHzsO0X_2OA/edit?usp=sharing**)
 
 ---
 
