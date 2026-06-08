@@ -47,3 +47,10 @@ Para mitigar alucinações e extrair o máximo valor analítico da transcrição
 ## Limitações Identificadas
 
 * Truncamento de Contexto Manual: O fatiamento preliminar de caracteres para evitar estouro de tokens pode omitir detalhes de interações ocorridas no final da sessão de perguntas e respostas em calls muito extensas.
+
+---
+## Contato
+
+Desenvolvido por Patricia. Conecte-se comigo profissionalmente:
+
+* [LinkedIn](https://www.linkedin.com/in/savarezi/)
