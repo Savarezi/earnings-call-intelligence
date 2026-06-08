@@ -2,11 +2,12 @@
 
 Este repositório contém uma ferramenta automatizada em Python desenvolvida para a ingestão, processamento e extração de sinais estratégicos e insights analíticos a partir da transcrição da earnings call da Petrobras referente ao primeiro trimestre de 2026 (1Q26). O objetivo principal é acelerar o processo de Equity Strategy, transformando uma apresentação de 60 a 90 minutos em inteligência estruturada e acionável em poucos minutos.
 
+
 ## Documentação Completa do Case
 
 Para uma análise detalhada da governança do projeto, matriz de riscos linguísticos e justificativas de arquitetura, acesse o documento oficial do projeto:
 
-* [Documentação Executiva do Case — Google Docs](**https://docs.google.com/document/d/1z1J2jwPOSI_OIxhX2u40frQb-pEm0cfwHHzsO0X_2OA/edit?usp=sharing**)
+* [Documentação Executiva do Case — Google Docs](https://docs.google.com/document/d/1z1J2jwPOSI_OIxhX2u40frQb-pEm0cfwHHzsO0X_2OA/edit?usp=sharing)
 
 ---
 
